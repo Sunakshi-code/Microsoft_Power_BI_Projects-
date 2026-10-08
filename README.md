@@ -82,4 +82,16 @@ DAX Measures
 KPI Creation
 Interactive Dashboard Development
 Data Visualization
-Business Data Analysis# Microsoft_Power_BI_Projects-
+Business Data Analysis
+
+# 🖼️ Dashboard Preview
+
+View the dashboard screenshot here:
+
+# 📂 Project Files
+
+# 📊 Power BI Dashboard
+
+You can download and explore the Power BI project file here:
+
+Download Power BI Project (.pbix)
