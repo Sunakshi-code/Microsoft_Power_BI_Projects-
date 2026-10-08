@@ -2,35 +2,51 @@
 
 # 📌 Project Overview
 
-This project is an interactive Mobile Sales Data Dashboard created using Microsoft Power BI. The dashboard provides a detailed analysis of mobile sales performance through KPIs, interactive visualizations, trends, and different business dimensions.
+This project is an interactive Mobile Sales Data Dashboard created using Microsoft Power BI. 
+The dashboard provides a detailed analysis of mobile sales performance through KPIs, interactive visualizations, trends, and different business dimensions.
 
 The project helps understand sales performance across cities, mobile brands, mobile models, payment methods, customer ratings, and time periods.
 
 # 🎯 Project Objectives
 
 Analyze overall mobile sales performance
+
 Track total sales, quantity, and transactions
+
 Analyze monthly sales trends
+
 Compare sales performance across cities
+
 Analyze sales by mobile brand and model
+
 Understand customer payment preferences
+
 Analyze customer ratings
+
 Identify useful business insights from the sales data
 
 # 🛠️ Tools & Technologies
 
 Microsoft Power BI
+
 Power Query
+
 DAX
+
 Data Visualization
+
 Data Analysis
 
 # 📊 Dashboard KPIs
 
 The dashboard includes important KPIs such as:
+
 Total Sales
+
 Total Quantity Sold
+
 Total Transactions
+
 Average Customer Rating
 
 # 📈 Dashboard Analysis
@@ -68,20 +84,31 @@ Analyzes sales performance across different days of the week.
 The dashboard contains interactive filters and slicers that allow users to analyze the data based on different dimensions such as:
 
 Mobile Model
+
 Payment Method
+
 Month
+
 Brand
+
 Other available filters
 
 # 💡 Key Skills Demonstrated
 
 Data Cleaning & Transformation
+
 Power Query
+
 Data Modeling
+
 DAX Measures
+
 KPI Creation
+
 Interactive Dashboard Development
+
 Data Visualization
+
 Business Data Analysis
 
 # 🖼️ Dashboard Preview
