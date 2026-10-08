@@ -35,25 +35,25 @@ Average Customer Rating
 
 # 📈 Dashboard Analysis
 
-# 1. Sales Analysis
+1. Sales Analysis
 Analysis of overall sales performance and sales distribution.
 
-# 2. Monthly Sales Trend
+ 2. Monthly Sales Trend
 Visualizes how sales change over different months and helps identify sales trends.
 
-# 3. City-wise Sales
+ 3. City-wise Sales
 Analyzes mobile sales across different cities.
 
-# 4. Brand & Model Analysis
+ 4. Brand & Model Analysis
 Compares the performance of different mobile brands and individual mobile models.
 
-# 5. Payment Method Analysis
+ 5. Payment Method Analysis
 Shows the distribution of transactions across different payment methods.
 
-# 6. Customer Rating Analysis
+ 6. Customer Rating Analysis
 Analyzes customer ratings to understand customer satisfaction patterns.
 
-# 7. Day-wise Sales
+ 7. Day-wise Sales
 Analyzes sales performance across different days of the week.
 
 # 🎛️ Interactive Features
