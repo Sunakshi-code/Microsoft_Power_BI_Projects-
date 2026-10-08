@@ -115,10 +115,14 @@ Business Data Analysis
 
 View the dashboard screenshot here:
 
+https://github.com/Sunakshi-code/Microsoft_Power_BI_Projects-/blob/main/Mobile%20Sales%20Data%20Dashboard%20using%20Power%20BI.png
+
 # 📂 Project Files
 
 # 📊 Power BI Dashboard
 
 You can download and explore the Power BI project file here:
 
-Download Power BI Project (.pbix)
+Download Power BI Project (
+https://github.com/Sunakshi-code/Microsoft_Power_BI_Projects-/blob/main/Mobile%20Sales%20Data%20Dashboard%20using%20Power%20BI.pbix
+)
